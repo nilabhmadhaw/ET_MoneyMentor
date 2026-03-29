@@ -25,7 +25,7 @@ This project was developed as a group project for the Economics Times Gen AI Hac
 
 * ⚛️ React.js
 * ⚡ Vite
-* 🎨 CSS / Tailwind (if used)
+* 🎨 CSS 
 * 📦 Node.js & npm
 
 ---
